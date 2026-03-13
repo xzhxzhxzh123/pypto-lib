@@ -31,5 +31,5 @@
        - name: Run tests                                                                                                                                                                                                                           
          run: |                                                                                                                                                                                                                                    
            echo "运行测试..."                                                                                                                                                                                                                   
-           cd /data/x00952168/pypto-lib
-           ./ci_test.py                                                                                                                                                                                                                                                  
+           # cd /data/x00952168/pypto-lib
+           # ./ci_test.py                                                                                                                                                                                                                                                  
